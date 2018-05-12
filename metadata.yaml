@@ -1,0 +1,30 @@
+_repo: '---_25245'
+_version: 0.1.0
+alternative_title: Zi Bu Yu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yuan, Mei
+    alias: 袁枚
+    birthdate: 1716
+    deathdate: 1798
+    gutenberg_agent_id: '31179'
+    url: http://www.gutenberg.org/2009/agents/31179
+    wikipedia: http://en.wikipedia.org/wiki/Yuan_Mei
+description: ''
+gutenberg_issued: '2008-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25245'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories, Chinese'
+- !lcc 'PL'
+- !lcsh 'Fantasy fiction, Chinese'
+title: 子不語
+url: http://www.gutenberg.org/ebooks/25245
